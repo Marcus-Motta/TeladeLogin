@@ -1,0 +1,35 @@
+body {
+    background-image: url(wp2757874.gif) ;
+}
+
+.tudo {
+    margin: auto;
+    width: 15%;
+    border: 3px solid rgb(179, 179, 179);
+    border-radius: 8px;
+    padding: 10px; 
+    text-align: center;
+    background-color: rgba(119, 119, 119, 0.3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    color: rgb(13, 146, 255)
+}
+.bemvindo {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: steelblue;
+}
+.botao {
+    font-size: 25px;
+    background-image: linear-gradient(rgb(97, 0, 252), rgb(250, 33, 185));
+    border-radius: 5px;
+    
+}
+.botao:hover {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(rgb(32, 29, 29), grey);
+    transition-duration: 1.5s
+}
+
